@@ -1,0 +1,16 @@
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+c:\users\alexmedina\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbprojResolveAssemblyReference.cache
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\Interop.WMPLib.dll
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\Interop.WMPLib.dll
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AlexMedina\Documents\Visual Studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.ResolveComReference.cache
